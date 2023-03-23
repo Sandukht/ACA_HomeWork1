@@ -2,7 +2,8 @@
 
 Problem 1 ~ Find the Duplicates
 Given an unsorted list of numbers (integers) n, find and print all the duplicates in the list.
-############################################################################################################
+#####################################################
+
 
 Problem 2 ~ Two Sum
 You are given a list nums and an integer target. Return the indeces of the elements from n that sum to target.
