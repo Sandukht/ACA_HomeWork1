@@ -9,12 +9,17 @@ Problem 2 ~ Two Sum
 You are given a list nums and an integer target. Return the indeces of the elements from n that sum to target.
 Explanation:
 If we take the element at index 1, which is 5 and the element at index 3 which is 7, it sums to 12. nums[1] + nums[3] == 5 + 7 == 12
-#############################################################################################################################################
+###############################################################################
+
+
 Problem 3 ~ Greatest Common Divisor
 Create a function that takes an arbitrary number of integers (2 or more) and uses the Euclidean Algorithm to compute the greatest common divisor (GCD) for those numbers.
 Explanation:
 GCD(24, 36, 16) = GCD(GCD(24, 36), 16) = GCD(12, 16) = 4)
-#############################################################################################################################################
+#########################################################################
+
+
+
 Problem 4 ~ Profiling Decorator
 Profiling is a way to measure the performance of the software application by measuring the resources used (time, memory, etc.) for the particular parts of it.
 
